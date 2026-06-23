@@ -1,0 +1,15 @@
+# binaries & builds
+farhad
+farhad.exe
+farhad_results.json
+farhad_results.json.tmp
+farhad_checkpoint.json
+farhad_checkpoint.json.tmp
+farhad_export.json
+farhad_export.csv
+farhad_export.txt
+
+# go workspace
+*.test
+*.out
+vendor/
