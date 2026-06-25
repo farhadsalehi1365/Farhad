@@ -30,7 +30,7 @@ that at the root.
 pkg install golang git -y
 
 # 2. clone
-git clone https://github.com/<you>/farhad.git
+git clone https://github.com/farhadsalehi1365/farhad.git
 cd farhad
 
 # 3. build
